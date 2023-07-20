@@ -8,7 +8,7 @@
 const RT = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Storybook, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  passions: [Web Development, Performance Web]
  
 }
 ```
