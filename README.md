@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hola, soy Rafael 👋💻
+[![GitHub RTapiaDev](https://img.shields.io/github/followers/RTapiaDev?label=follow&style=social)](https://github.com/RTapiaDev)
+
+
+###  Un poco de mi...  
+
+```javascript
+const RT = {
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Storybook, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ 
+}
+```
+
+⭐️ De [@RTapiaDev](https://github.com/RTapiaDev)
+
+
 
 <!--
 **RTapiaDev/RTapiaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
