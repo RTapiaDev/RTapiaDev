@@ -19,7 +19,6 @@ Un apasionado frontend developer de Chile
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 
 
-⭐️ De [@RTapiaDev](https://github.com/RTapiaDev)
 
 
 
