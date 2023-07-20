@@ -1,7 +1,8 @@
 ### Hola, soy Rafael 👋💻 [![GitHub RTapiaDev](https://img.shields.io/github/followers/RTapiaDev?label=follow&style=social)](https://github.com/RTapiaDev)
 
 ###  💬 Un poco de mi...  
-Un apasionado frontend developer de Chile
+Un apasionado frontend developer de Chile, 
+que sigue aprendiendo cada día para poder superarse así mismo
 
 ### 🦾 Reforzando Skills
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
